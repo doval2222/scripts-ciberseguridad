@@ -1,0 +1,11 @@
+www
+ftp
+mail
+webmail
+admin
+portal
+vpn
+intranet
+api
+dev
+test
